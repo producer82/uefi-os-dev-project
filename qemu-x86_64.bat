@@ -1,0 +1,1 @@
+.\0dev\qemu\qemu-system-x86_64.exe -m 256M -L OVMF_dir/ -pflash OVMF.fd disk.img -monitor telnet:127.0.0.1:4444,server,nowait
